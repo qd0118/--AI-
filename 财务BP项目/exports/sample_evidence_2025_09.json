@@ -1,0 +1,35 @@
+{
+  "month": 9,
+  "metric_source": "vw_monthly_pnl WHERE month=9; expense_2025; budget_2025; actual_2025",
+  "budget_revenue": 2728561982.62,
+  "actual_revenue": 2636966353.61,
+  "budget_gross_profit": 1178401697.85,
+  "actual_gross_profit": 1050172356.84,
+  "budget_opex": 697113993.92,
+  "actual_opex": 746128643.63,
+  "revenue_bridge": {
+    "预算收入": 2728561982.6193404,
+    "销量影响": -17421333.36356371,
+    "结构影响": 16280971.549497128,
+    "价格影响": -90455267.19059451,
+    "实际收入": 2636966353.6146793
+  },
+  "cost_bridge": {
+    "预算成本": 1550160284.7710514,
+    "销量影响": -9897469.531562006,
+    "结构影响": 8317982.647568941,
+    "单位成本影响": 38213198.88727912,
+    "实际成本": 1586793996.7743373
+  },
+  "gross_profit_variance": -128229341.00794697,
+  "expense_alerts": [
+    {
+      "account": "市场推广",
+      "variance_rmb": 44001450.28,
+      "variance_pct": 0.18,
+      "simulated_cause": "模拟案例：季度推广提前投放，费用按当月发生计入"
+    }
+  ],
+  "closing_ar": 761343684.03,
+  "disclosure": "2025 monthly budgets, transactions, receivables and causes are synthetic; no actual company managerial decisions are represented."
+}

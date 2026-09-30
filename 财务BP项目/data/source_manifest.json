@@ -1,0 +1,27 @@
+{
+  "company": "安克创新科技股份有限公司",
+  "period": "2024",
+  "source": "https://disc.static.szse.cn/disc/disk03/finalpage/2025-04-28/9bd3ae70-7998-4fbe-99ff-87b7ebd43cb8.PDF",
+  "reported_controls_rmb": {
+    "company_revenue": 24710080329.34,
+    "company_cogs": 13918403694.15,
+    "selling_expense": 5569790884.12,
+    "admin_expense": 868731901.96
+  },
+  "reported_product_revenue_cost_rmb": {
+    "充电储能": [
+      12667006821.1,
+      7415203131.88
+    ],
+    "智能创新": [
+      6336476919.1,
+      3391303871.48
+    ],
+    "智能影音": [
+      5692427101.62,
+      3108036030.98
+    ]
+  },
+  "limitations": "Only product-level annual revenue/cost and consolidated controls are public. All row-level, 2025, budgets, receivables and scenarios are synthetic; 2024 product totals are calibrated exactly. The three product families exclude small other income. No inference about the company's actual 2025 performance is intended.",
+  "random_seed": 20260929
+}
